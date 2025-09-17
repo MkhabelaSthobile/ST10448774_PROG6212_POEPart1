@@ -2,6 +2,20 @@
     ViewData["Title"] = "Login";
 }
 
+<h2 class="welcome-heading">Welcome!</h2>
+
+<style>
+    .welcome-heading {
+        font-size: 56px;
+        text-align: center;
+        margin-top: 40px;
+        font-weight: 700;
+        background: linear-gradient(90deg, #007bff, #00c6ff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+</style>
+
 <div class="login-container">
     <div class="login-box">
         <h2>Contract Monthly Claim System</h2>
@@ -31,43 +45,46 @@
 <style>
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background: linear-gradient(to right, #667eea, #764ba2);
+        background: lightgrey; 
         margin: 0;
         padding: 0;
     }
 
-    
-
-    /* Login Box */
+    /* Center container */
     .login-container {
         display: flex;
         justify-content: center;
         align-items: center;
         width: 100%;
         height: 100vh;
-        padding-top: 0px;
+        padding-top: 0;
         box-sizing: border-box;
     }
 
+    /* White login card */
     .login-box {
-        background: white;
+        background: #ffffff;
         padding: 30px;
         border-radius: 12px;
-        box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         width: 400px;
         text-align: center;
     }
 
+        /* Title inside the box */
         .login-box h2 {
             margin-bottom: 10px;
-            color: #333;
+            color: #222;
+            font-weight: 600;
         }
 
+    /* Subtitle */
     .subtitle {
         margin-bottom: 20px;
-        color: #666;
+        color: #555;
     }
 
+    /* Form fields */
     .form-group {
         margin-bottom: 15px;
         text-align: left;
@@ -85,22 +102,36 @@
         padding: 10px;
         border: 1px solid #ccc;
         border-radius: 8px;
+        font-size: 14px;
     }
 
+    /* Button */
     .btn-login {
         margin-top: 15px;
-        background: #667eea;
+        background: #007bff; /* professional blue */
         color: white;
         border: none;
         padding: 12px 20px;
         width: 100%;
         border-radius: 8px;
         font-size: 16px;
+        font-weight: 500;
         cursor: pointer;
         transition: background 0.3s;
     }
 
         .btn-login:hover {
-            background: #5643a8;
+            background: #0056b3;
         }
+
+    /* Welcome heading at top */
+    h2 {
+        color: grey;
+        font-size: 48px;
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
 </style>
