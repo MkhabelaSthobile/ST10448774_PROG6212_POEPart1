@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\CMCS_App.csproj": {}
+    "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\ST10448774_PROG6212_POEPart1\\CMCS_App\\CMCS_App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\CMCS_App.csproj": {
+    "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\ST10448774_PROG6212_POEPart1\\CMCS_App\\CMCS_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\CMCS_App.csproj",
+        "projectUniqueName": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\ST10448774_PROG6212_POEPart1\\CMCS_App\\CMCS_App.csproj",
         "projectName": "CMCS_App",
-        "projectPath": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\CMCS_App.csproj",
+        "projectPath": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\ST10448774_PROG6212_POEPart1\\CMCS_App\\CMCS_App.csproj",
         "packagesPath": "C:\\Users\\Sithobile Mkhabela\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\obj\\",
+        "outputPath": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\ST10448774_PROG6212_POEPart1\\CMCS_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,20 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

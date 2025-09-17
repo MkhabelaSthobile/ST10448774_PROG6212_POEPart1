@@ -1,3 +1,8 @@
+using Microsoft.EntityFrameworkCore;
+using CMCS_App.Data;
+using CMCS_App.Models;
+using Microsoft.EntityFrameworkCore.SqlServer;
+
 namespace CMCS_App
 {
     public class Program
@@ -8,6 +13,10 @@ namespace CMCS_App
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            // Use InMemory database for prototype
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseInMemoryDatabase("CMCS_DB"));
 
             var app = builder.Build();
 
@@ -21,7 +30,7 @@ namespace CMCS_App
 
             app.UseHttpsRedirection();
             app.UseRouting();
-
+            app.UseStaticFiles();
             app.UseAuthorization();
 
             app.MapStaticAssets();
