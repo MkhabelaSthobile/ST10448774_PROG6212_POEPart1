@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\models\\academicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:models\\academicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\models\\programmecoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:models\\programmecoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\views\\academicmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:views\\academicmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\views\\programmecoordinator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:views\\programmecoordinator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\views\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:views\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\controllers\\programmecoordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:controllers\\programmecoordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|c:\\users\\sithobile mkhabela\\source\\repos\\cmcs_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69EBDF4-5960-4BA7-B48B-2E6B87854FFA}|CMCS_App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcademicManager.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\AcademicManager.cs",
+              "RelativeDocumentMoniker": "Models\\AcademicManager.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\AcademicManager.cs",
+              "RelativeToolTip": "Models\\AcademicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:58:46.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\Lecturer.cs",
+              "RelativeToolTip": "Models\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:55:16.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:09:22.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgrammeCoordinator.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\ProgrammeCoordinator.cs",
+              "RelativeDocumentMoniker": "Models\\ProgrammeCoordinator.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\ProgrammeCoordinator.cs",
+              "RelativeToolTip": "Models\\ProgrammeCoordinator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:58:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:09:28.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\ProgrammeCoordinator\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProgrammeCoordinator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\ProgrammeCoordinator\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProgrammeCoordinator\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T10:01:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\AcademicManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AcademicManager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\AcademicManager\\Index.cshtml",
+              "RelativeToolTip": "Views\\AcademicManager\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T10:00:02.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\Lecturer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Lecturer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\Lecturer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Lecturer\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T07:49:50.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T07:18:24.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgrammeCoordinatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Controllers\\ProgrammeCoordinatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProgrammeCoordinatorController.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Controllers\\ProgrammeCoordinatorController.cs",
+              "RelativeToolTip": "Controllers\\ProgrammeCoordinatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:58:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\source\\repos\\CMCS_App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T07:30:46.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
